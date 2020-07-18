@@ -1,16 +1,19 @@
+### 你好 👋
+
+😄很高兴你点开了我的主页😄
+
+- 我是一名后端开发工程师，花名：士心。
+- 重点关注后端开发，数据处理等方向，欢迎交流。
+- 你可以通过邮箱联系我：763107756@qq.com
+
 ### Hi there 👋
 
-<!--
-**weizhiwen/weizhiwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm so glad you could come.
 
-Here are some ideas to get you started:
+- 🔭 I’m a backend engineer
+- 🔭 I’m currently working at shanghai
+- 🌱 I’m currently learning Java/Python
+- 👯 I’m a host of website: [@Wizey](https://wenshixin.gitee.io/blog/)
+- 👯 I’m a host of official wechat account: @编程心路
+- 📫 How to reach me: 763107756@qq.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
