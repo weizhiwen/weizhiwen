@@ -6,7 +6,7 @@
 - 重点关注产品研发方向，欢迎交流。
 - 你可以通过邮箱联系我：weizhiwen23@gmail.com
 
-![](https://github-readme-stats.vercel.app/api?username=weizhiwen&theme=nord&count_private=true&show_icons=true&hide=contribs,prs)
+![](https://github-readme-stats.vercel.app/api?username=weizhiwen&theme=nord&count_private=false&show_icons=true&hide=contribs,prs)
 
 
 ### Hi there 👋
