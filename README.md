@@ -16,6 +16,6 @@ I'm so glad you could come.
 - 🔭 I’m a backend engineer
 - 🔭 I’m currently working at Hefei
 - 🌱 I’m currently learning Java/Python
-- 👯 I’m a host of website: [@士心日志]([https:///](https://shixinlog.cn/))
+- 👯 I’m a host of website: [@士心日志](https://shixinlog.cn/)
 - 📫 How to reach me: 763107756@qq.com
 
