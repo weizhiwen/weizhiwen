@@ -6,7 +6,7 @@
 - 重点关注产品研发方向，欢迎交流。
 - 你可以通过邮箱联系我：weizhiwen23@gmail.com
 
-![](https://github-readme-stats.vercel.app/api?username=weizhiwen&theme=nord&count_private=false&show_icons=true&hide=contribs,prs)
+![](https://github-readme-stats.vercel.app/api?username=weizhiwen&theme=nord&count_private=true&show_icons=true&hide=contribs,prs)
 
 
 ### Hi there 👋
@@ -14,9 +14,8 @@
 I'm so glad you could come.
 
 - 🔭 I’m a backend engineer
-- 🔭 I’m currently working at shanghai
+- 🔭 I’m currently working at Hefei
 - 🌱 I’m currently learning Java/Python
-- 👯 I’m a host of website: [@Wizey](https://wenshixin.gitee.io/blog/)
-- 👯 I’m a host of official wechat account: @编程心路
+- 👯 I’m a host of website: [@士心日志]([https:///](https://shixinlog.cn/))
 - 📫 How to reach me: 763107756@qq.com
 
